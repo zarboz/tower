@@ -12,7 +12,7 @@
     "tower/route": "0.1.0",
     "tower/validator": "0.1.0",
     "tower/type": "0.1.0",
-    "tower/attr": "0.1.0",
+    "tower/attr": "0.1.0pre",
     "tower/param": "0.1.0",
     "tower/content": "0.1.0",
     "tower/template": "0.1.0",
